@@ -1,4 +1,4 @@
-FROM padcom/oracle-java:jre8u25
+FROM padcom/oracle-java:jre8u31
 MAINTAINER Matthias Hryniszak <padcom@gmail.com>
 
 RUN opkg-install curl
